@@ -1,8 +1,6 @@
-# Welcome to my wood projects page
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-This is mainly a place for me to drop and save the projects I have worked on.
-
-They may not be pretty, neither with good plan for reproducibility, but I made them with my bare HANDS!!!! And some tools.
-
-1. [Screen Raiser](./projects/p1-screen-raiser/screen-raiser.md)
-1. [Stool Renovation](./projects/p2-stool-reno/stool-reno.md)
+layout: home
+---

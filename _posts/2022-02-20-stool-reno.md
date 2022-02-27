@@ -1,8 +1,16 @@
-# Stool Renovation
+---
+layout: post
+title:  "Stool Renovation"
+date:   2022-02-20 17:00:00 +1100
+---
 
 I found a tool which was quite small and seems like fun for Delphine: she could use it for whatever, and we wouln't care if she breakes it.
 
-![Original from website](./img/ikea-stool.jpg) becomes ![End result](img/end-result.jpg)
+![Original from website](/assets/2022-02-20-stool-reno/ikea-stool.jpg)
+
+becomes
+
+![End result](/assets/2022-02-20-stool-reno/end-result.jpg)
 
 It was an [IKEA stool](https://www.ikea.com/au/en/p/flisat-childrens-stool-00296780/), well used, coloured, with some random paint marks, the wood was quite marked, and one leg was not well attached. I however forgot to take a picture at the time...
 
@@ -35,17 +43,17 @@ It was actually fun to do, but I got tired when hand sanding. I don't have much 
 
 I gor some free stain so I had no ideas what it would look like. The indications on the can were to put three layers, preferably with sanding in th between, after a few hours.
 
-![Staining in progress](img/not-totally-stained-yet.jpg)
+![Staining in progress](/assets/2022-02-20-stool-reno/not-totally-stained-yet.jpg)
 
 ## Pictures
 
 Happy picture: the end result looks quite good :)
-![End result](img/end-result2.jpg)
+![End result](/assets/2022-02-20-stool-reno/end-result2.jpg)
 
 But from closer, there are some deffects:
 
-- when staining, it was a bit dark so I could not see when the brush let some hair ![Hair brush](img/deffect1-brush-hair.jpg)
-- the wood is quite cheap, and easy to chip ![Chips](img/deffect2-chip.jpg)
-- I may have put too much stain, which dropped a bit and overstained... but I also find it pretty, it gives character ![Overstain](img/deffect3-stain-stains.jpg)
-- and also some stain drops on the legs ![Stain drops](img/deffect4-stain-drops.jpg)
-- just showing that my sanding could have been better, we can still see some file marks ![File marks](img/deffect5-file-marks.jpg)
+- when staining, it was a bit dark so I could not see when the brush let some hair ![Hair brush](/assets/2022-02-20-stool-reno/deffect1-brush-hair.jpg)
+- the wood is quite cheap, and easy to chip ![Chips](/assets/2022-02-20-stool-reno/deffect2-chip.jpg)
+- I may have put too much stain, which dropped a bit and overstained... but I also find it pretty, it gives character ![Overstain](/assets/2022-02-20-stool-reno/deffect3-stain-stains.jpg)
+- and also some stain drops on the legs ![Stain drops](/assets/2022-02-20-stool-reno/deffect4-stain-drops.jpg)
+- just showing that my sanding could have been better, we can still see some file marks ![File marks](/assets/2022-02-20-stool-reno/deffect5-file-marks.jpg)
