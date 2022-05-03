@@ -18,7 +18,11 @@ Note also that I could have made two pieces, glueing them together, but I decide
 
 ### Starting date
 
+09 April 2022
+
 ### Finishing date
+
+22 April 2022 - quite fast for me :)
 
 ## Step 1 - chop
 
