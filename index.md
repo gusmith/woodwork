@@ -7,3 +7,4 @@ They may not be pretty, neither with good plan for reproducibility, but I made t
 1. [Screen Raiser](./projects/p1-screen-raiser/screen-raiser.md)
 1. [Stool Renovation](./projects/p2-stool-reno/stool-reno.md)
 1. [Boart Carving](./projects/p3-boat/boat.md)
+1. [Castle Logix Piece](./projects/p4-castle-logix-piece/castle-logix-piece.md)
